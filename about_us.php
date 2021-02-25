@@ -54,7 +54,7 @@
 						<p class="text_align">Chariot Agro Limited is a closely held public limited company headquartered in Bengaluru, registered under the Company’s Act of 2013. The key promoter of Chariot Agro Limited is Chariot World Tours Limited which is mainly promoted by first generation entrepreneur, Atmanand Krishna Shanbhag along with K C Madhukiran and Koushik Varaghur. K. C. Madhukiran and Koushik Varaghur no longer serve on the board of Chariot World Tours Limited since March 2020. Nicholas Karthik, Sachin Shetty, Karthik P. Nayak, Deepa Shanbhag and Deepak Prabhu are the other board of directors of CWTL. Chariot Agro Limited will be in the business of procuring high quality agricultural produce such as wheat, wheat-based products, rice and other food grains, pulses, oil seeds, spices, edible oil, all kind of dry fruits and nuts, sugar, Tea, coffee etc. and get them processed in hygienic conditions and deliver to the customers after getting them well packed to protect all the nutritional properties of the products. Chariot Agro Limited is entering the space of the rapidly growing demand for unadulterated, pure and hygienic edible agricultural products and add value to customers as well as value to the farmers who grow these products. Chariot Agro Limited is committed towards farmers education and empowerment of farmers by providing continued inputs to farmers on best farming practices and hygienic storage practices. Chariot Agro Limited is poised to make a difference to the lives of every stake holder that is, customers, farmers, employees, shareholders and the public at large.</p>
 						<p class="text_align"><strong>Registered Office</strong></p>
 						<p class="text_align"><strong># 3446/40, 1st ‘F’ Cross, Next to Bunts Sangha,<br> Vijayanagar, Bangalore – 560040.</strong></p>
-						<p class="text_align">atmanand@chariotworldtours.com</p>
+						<p class="text_align">atmanand@chariotagro.com</p>
 						<p class="text_align">Website: www.chariotagro.com</p>
 						<p class="text_align"><strong>Chariot Agro Limited Promoters Profile </strong></p>
 						<p class="text_align"><strong>Atmanand Shanbhag</strong></p>
@@ -73,7 +73,7 @@
 				<div class="std">
 					<div class="wrapper_bl" style="margin-top: 1px;">
 						<h4 class="text_align"><center><strong>Enquiry</strong></center></h4>
-						<h4 class="text_align"><center>Please call us on <strong> 0091 9945775555 </strong>  or email to <strong>atmanand@chariotworldtours.com </strong> <br>for any product enquiry or for any information which you may need from <br> Chariot Agro Limited.</center></h4>
+						<h4 class="text_align"><center>Please call us on <strong> 0091 9945775555 </strong>  or email to <strong>atmanand@chariotagro.com </strong> <br>for any product enquiry or for any information which you may need from <br> Chariot Agro Limited.</center></h4>
 					</div>
 				</div> 
 			</div> 

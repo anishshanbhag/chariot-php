@@ -145,7 +145,7 @@
 						<p class="text_align"><strong>Your legal rights</strong></p>
 						<p class="text_align">​Nothing in these terms and conditions affect your rights under law.</p>
 						<p class="text_align"><strong>customer Service</strong></p>
-						<p class="text_align">In the event of a query or complaint about the website or us, please email us at  atmanand@chariotworldtours.com or call us on 9945775555.</p>
+						<p class="text_align">In the event of a query or complaint about the website or us, please email us at  atmanand@chariotagro.com or call us on 9945775555.</p>
 					</div>
 				</div> 
 			</div>  
@@ -154,7 +154,7 @@
 				<div class="std">
 					<div class="wrapper_bl" style="margin-top: 1px;">
 						<h4 class="text_align"><center><strong>Enquiry</strong></center></h4>
-						<h4 class="text_align"><center>Please call us on <strong> 0091 9945775555 </strong>  or email to <strong>atmanand@chariotworldtours.com </strong> <br>for any product enquiry or for any information which you may need from <br> Chariot Agro Limited.</center></h4>
+						<h4 class="text_align"><center>Please call us on <strong> 0091 9945775555 </strong>  or email to <strong>atmanand@chariotagro.com </strong> <br>for any product enquiry or for any information which you may need from <br> Chariot Agro Limited.</center></h4>
 					</div>
 				</div> 
 			</div> 

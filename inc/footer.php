@@ -86,7 +86,7 @@
 									<br>
 								</address>
 								<div class="phone-footer"><i class="phone-icon"></i>+91 994 577 5555</div>
-								<div class="email-footer"><i class="email-icon"></i><a href="mailto:atmanand@chariotworldtours.com">atmanand@chariotworldtours.com</a></div>
+								<div class="email-footer"><i class="email-icon"></i><a href="mailto:atmanand@chariotagro.com">atmanand@chariotagro.com</a></div>
 							</div>
 						</div>
 					</div>
